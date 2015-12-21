@@ -6,7 +6,7 @@ cwd=$(pwd)
 
 REPO_URL="https://github.com/ATtinyTeenageRiot/AvrdudeGnusbuinoMidi2Kicker.git"
 REPO_DIR="/c/Users/xcorex/AvrdudeGnusbuinoMidi2Kicker"
-DESTINATION_REPO="./tools/release/avrdude"
+DESTINATION_REPO="./releases/AvrdudeGnusbuinoMidi2Kicker"
 STAGING_DIR="./tools/staging"
 
 COMMIT_HASH="894d2178"
